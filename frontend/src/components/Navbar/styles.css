@@ -1,0 +1,13 @@
+header {
+    height: 60px;
+    background-color: var(--color-primary);
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
